@@ -1,4 +1,4 @@
-package application;
+package pl.notes.app;
 
 import com.example.notes.api.NotesApi;
 import com.example.notes.model.Note;
